@@ -42,7 +42,7 @@ const PropertyDetails = () => {
               <span className="font-bold text-lg">
                 If calling, please quote reference: 11522
               </span>
-              
+
               <br />
               <br /> <span className="font-bold text-lg">GDPR:</span> Applying
               for the above property means you are giving us permission to pass
@@ -134,7 +134,7 @@ const PropertyDetails = () => {
 
       {/* contact info */}
       <div className="md:col-span-2" data-aos="fade-down">
-        <div className="boxShadow rounded-xl brightness-100 bg-gray property-contact">
+        <div className="boxShadow rounded-xl brightness-100 bg-gray property-contact border-slate-50 my-border" >
           <img
             src="https://i.ibb.co/xjsPLfG/hero-img.jpg"
             alt="Property Image"
