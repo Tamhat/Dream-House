@@ -27,68 +27,28 @@ const PropertyDetails = () => {
             )}
           >
             <p className="font-bold text-lg"></p>
-            <p>
-              FINAL PLOT FOR SALE. UNIQUE LOCATION ON
-              PRIVATE ROAD OVERLOOKING COUNTRYSIDE. DETAILED PLANNING CURRENTLY
-              APPROVED FOR EXCLUSIVE 1850 SQ/FT DWELLING. THE SITE HAS ITS
-              PERMITTED DEVELOPMENT IN TACT ALLOWING FOR INITIAL AUTOMATIC
-              EXTENSION UP TO 2400 SQ/FT. ALL SERVICES ON SITE. APPLICATION CAN
-              BE VIEWED ON COVENTRY COUNCIL PLANNING PORTAL REF: RM/2021/3791
-              <br /> <br /> OFFERS BASED ON £295,000............
-              <br />
-              <br /> For viewing arrangement, please get in touch with us.
-              <br />
-              <br />
-              <span className="font-bold text-lg">
-        
-              </span>
+            <p className="desc1">
+              Discover the last available plot in the picturesque Hawkes Mill Lane, a serene and sought-after location in Coventry's beautiful countryside. This is more than just a piece of land; it's a gateway to your dream home.
 
-              <br />
-              <br /> <span className="font-bold text-lg">GDPR:</span> Applying
-              for the above property means you are giving us permission to pass
-              your details to the vendor or landlord for further communication
-              related to viewing arrangement or more property-related
-              information. *Virtual viewings: Some or all information pertaining
-              to this property may have been provided solely by the
-              vendor/landlord, and although we always make every effort to
-              verify the information provided to us, we strongly advise you to
-              make further enquiries before continuing. If you choose to make an
-              offer based solely on a virtual viewing, then 99Home Ltd does not
-              accept any liability for errors in the information provided,
-              including but not limited to, measurements, photography and video
-              content. <br />
-              <br /> AML: To comply with government Money Laundering Regulations
-              2019, we are required to confirm the identity of all prospective
-              buyers. We use the services of a third party, AMLTeam.co.uk , who
-              will contact you directly at an agreed time to do this. They will
-              need the full name, date of birth and current address of all
-              buyers. There is a nominal charge of £20 per buyer, payable direct
-              to AMLTeam . Please note, we are unable to issue a memorandum of
-              sale until the checks are complete. REFERRAL FEES We may suggest
-              reputable providers of supplementary services, such as
-              Conveyancing, Financial Services, Insurance, and Surveying. If you
-              choose to utilize their services based on our recommendation, we
-              may receive a commission payment or another form of benefit,
-              referred to as a referral fee. It's important to note that you are
-              not obligated to engage with the services of the recommended
-              provider.
-              <br />
-              <br /> *Measurements: These approximate room sizes are only
-              intended as general guidance. You must verify the dimensions
-              carefully before ordering any household goods, carpets or any
-              built-in furniture. *General: While we endeavor to make our sales
-              particulars fair, accurate and reliable, they are only a general
-              guide to the property and, accordingly, if there is any point
-              which is of particular importance to you, please contact 99home
-              and we will be pleased to check the detailing for you, especially
-              if you are contemplating traveling some distance to view the
-              property.
-              <br /> *99home is the seller's agent for this property. Your
-              conveyancer is legally responsible for ensuring any purchase
-              agreement fully protects your position. We make detailed enquiries
-              of the seller to ensure the information provided is as accurate as
-              possible. Please inform us if you become aware of any information
-              being inaccurate.
+🏡 Build Your Dream Home in Tranquility
+Offering a substantial plot size of 1850 sq/ft with the potential to extend up to 2400 sq/ft, this land is a blank canvas for your architectural aspirations. Whether you dream of a modern, spacious family home or a cozy, bespoke cottage, the approved detailed planning allows you to bring your vision to life with ease.
+
+🌳 A Unique Blend of Countryside Charm and City Convenience
+Nestled on a private road and overlooking the lush countryside, this plot promises a peaceful living environment, away from the hustle and bustle. Yet, its proximity to Coventry city ensures that all urban conveniences are just a short drive away. Enjoy the best of both worlds - the tranquility of rural life and the accessibility of city amenities.
+
+🔍 Approved Plans & Ready Services
+The property comes with detailed planning permission (Ref: RM/2021/3791 viewable on Coventry Council Planning Portal), ensuring a smooth start to your building journey. Additionally, all essential services are already on site, further simplifying the development process.
+
+💷 An Investment in Your Future
+Priced at £295,000, this final plot in Hawkes Mill Lane represents not just an investment in land, but in a lifestyle of peace, privacy, and prestige. It's a rare opportunity to create a home that's perfectly tailored to your needs and desires.
+
+📅 Arrange Your Viewing Today
+We invite you to experience the potential of this beautiful plot firsthand. For arrangements and more information, please get in touch with us. Don't miss this chance to own a piece of Coventry's finest countryside.
+
+Hawkes Mill Lane, Coventry, Warks, CV5
+Offers in the Region of £295,000
+
+📞 Contact us now to explore this exclusive land opportunity and take the first step towards building your dream home!
             </p>
             {/* <p className="font-bold text-lg">Specification</p>
             <p>
