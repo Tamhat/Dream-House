@@ -26,21 +26,21 @@ const PropertyDetails = () => {
               isOpenText ? null : "line-clamp-[18]"
             )}
           >
-            <p className="font-bold text-lg">Property Ref: 11522</p>
+            <p className="font-bold text-lg"></p>
             <p>
-              Property Ref: 11522 FINAL PLOT FOR SALE. UNIQUE LOCATION ON
+              FINAL PLOT FOR SALE. UNIQUE LOCATION ON
               PRIVATE ROAD OVERLOOKING COUNTRYSIDE. DETAILED PLANNING CURRENTLY
               APPROVED FOR EXCLUSIVE 1850 SQ/FT DWELLING. THE SITE HAS ITS
               PERMITTED DEVELOPMENT IN TACT ALLOWING FOR INITIAL AUTOMATIC
               EXTENSION UP TO 2400 SQ/FT. ALL SERVICES ON SITE. APPLICATION CAN
               BE VIEWED ON COVENTRY COUNCIL PLANNING PORTAL REF: RM/2021/3791
-              <br /> <br /> OFFERS BASED ON £300,000............
+              <br /> <br /> OFFERS BASED ON £295,000............
               <br />
               <br /> For viewing arrangement, please get in touch with us.
               <br />
               <br />
               <span className="font-bold text-lg">
-                If calling, please quote reference: 11522
+        
               </span>
 
               <br />
