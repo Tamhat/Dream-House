@@ -28,27 +28,27 @@ const PropertyDetails = () => {
           >
             <p className="font-bold text-lg"></p>
             <p className="desc1">
-              Discover the last available plot in the picturesque Hawkes Mill Lane, a serene and sought-after location in Coventry's beautiful countryside. This is more than just a piece of land; it's a gateway to your dream home.
+              Discover the last available plot in the picturesque Hawkes Mill Lane, a serene and sought-after location in Coventry's beautiful countryside. This is more than just a piece of land; it's a gateway to your dream home.<br/><br/>
 
 🏡 Build Your Dream Home in Tranquility
-Offering a substantial plot size of 1850 sq/ft with the potential to extend up to 2400 sq/ft, this land is a blank canvas for your architectural aspirations. Whether you dream of a modern, spacious family home or a cozy, bespoke cottage, the approved detailed planning allows you to bring your vision to life with ease.
+Offering a substantial plot size of 1850 sq/ft with the potential to extend up to 2400 sq/ft, this land is a blank canvas for your architectural aspirations. Whether you dream of a modern, spacious family home or a cozy, bespoke cottage, the approved detailed planning allows you to bring your vision to life with ease.<br/><br/>
 
 🌳 A Unique Blend of Countryside Charm and City Convenience
-Nestled on a private road and overlooking the lush countryside, this plot promises a peaceful living environment, away from the hustle and bustle. Yet, its proximity to Coventry city ensures that all urban conveniences are just a short drive away. Enjoy the best of both worlds - the tranquility of rural life and the accessibility of city amenities.
+Nestled on a private road and overlooking the lush countryside, this plot promises a peaceful living environment, away from the hustle and bustle. Yet, its proximity to Coventry city ensures that all urban conveniences are just a short drive away. Enjoy the best of both worlds - the tranquility of rural life and the accessibility of city amenities.<br/><br/>
 
 🔍 Approved Plans & Ready Services
-The property comes with detailed planning permission (Ref: RM/2021/3791 viewable on Coventry Council Planning Portal), ensuring a smooth start to your building journey. Additionally, all essential services are already on site, further simplifying the development process.
+The property comes with detailed planning permission (Ref: RM/2021/3791 viewable on Coventry Council Planning Portal), ensuring a smooth start to your building journey. Additionally, all essential services are already on site, further simplifying the development process.<br/><br/>
 
 💷 An Investment in Your Future
-Priced at £295,000, this final plot in Hawkes Mill Lane represents not just an investment in land, but in a lifestyle of peace, privacy, and prestige. It's a rare opportunity to create a home that's perfectly tailored to your needs and desires.
+Priced at £295,000, this final plot in Hawkes Mill Lane represents not just an investment in land, but in a lifestyle of peace, privacy, and prestige. It's a rare opportunity to create a home that's perfectly tailored to your needs and desires.<br/><br/>
 
 📅 Arrange Your Viewing Today
-We invite you to experience the potential of this beautiful plot firsthand. For arrangements and more information, please get in touch with us. Don't miss this chance to own a piece of Coventry's finest countryside.
+We invite you to experience the potential of this beautiful plot firsthand. For arrangements and more information, please get in touch with us. Don't miss this chance to own a piece of Coventry's finest countryside.<br/><br/>
 
-Hawkes Mill Lane, Coventry, Warks, CV5
-Offers in the Region of £295,000
+Hawkes Mill Lane, Coventry, Warks, CV5<br/>
+Offers in the Region of £295,000<br/><br/>
 
-📞 Contact us now to explore this exclusive land opportunity and take the first step towards building your dream home!
+📞 Contact us now to explore this exclusive land opportunity and take the first step towards building your dream home!<br/>
             </p>
             {/* <p className="font-bold text-lg">Specification</p>
             <p>
