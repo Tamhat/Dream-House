@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import Aos from "aos";
-import video from "../assets/Plot of Land for sale _ Hawkes Mill Lane, Coventry, Warks, CV5.mp4";
+import video from "../assets/Plot of Land for sale Coventry _ Hawkes Mill Lane _ Lee Clarke, Estate Agent, Coventry 07940794030.mp4";
 import "aos/dist/aos.css";
 import { Link } from "react-scroll";
 
