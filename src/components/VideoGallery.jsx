@@ -8,7 +8,7 @@ const VideoGalary = () => {
 
       {/* youtube video */}
       <iframe
-        src="https://www.youtube.com/embed/EgTlgl5NDjo"
+        src="https://www.youtube.com/embed/Z-8BSkNg9jw?si=_4jVoKKuh4PXnsAB"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
