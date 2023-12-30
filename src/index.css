@@ -48,6 +48,11 @@ body {
 .my-border{
   border: 1.5px solid rgba(255, 255, 255, 0.76);
 }
+.desc1{
+  word-spacing: 1.5px;
+  line-height: 1.8;
+  word-break: break-all;
+}
 
 @media (max-width: 768px) {
   .navbar-for-mob {
