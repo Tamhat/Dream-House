@@ -42,7 +42,7 @@ const Contact = () => {
   const navigateTo = useNavigate();
   // ======navigate and connect firebase======
   const fireBaseURL =
-    "https://cedargardenscoventry01-default-rtdb.firebaseio.com/userDataRecords.json";
+    "https://plotlandsell-default-rtdb.asia-southeast1.firebasedatabase.app/userDataRecords.json";
 
   const handleSubmit = async (event) => {
     const { firstName, lastName, email, phone, message } = userData;
