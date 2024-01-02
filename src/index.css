@@ -10,6 +10,9 @@
 
 * {
   font-family: "Assistant", sans-serif;
+ textarea, input{
+  color: black!important
+ }
 }
 
 .hero-title {

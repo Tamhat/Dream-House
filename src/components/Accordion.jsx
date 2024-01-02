@@ -27,7 +27,7 @@ const Accordion = () => {
 
   const navigateTo = useNavigate();
   const fireBaseURL =
-    "https://cedargardenscoventry01-default-rtdb.firebaseio.com/userDataRecords.json";
+    "https://plotlandsell-default-rtdb.asia-southeast1.firebasedatabase.app/userDataRecords.json";
 
   const handleSubmit = async (event) => {
     const { fullName, email, phone } = userData;
